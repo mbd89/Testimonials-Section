@@ -6,6 +6,7 @@ Live Site URL: https://mbd89.github.io/Testimonials-Section/
 # Frontend Mentor - Testimonials grid section solution
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+<img width="1273" alt="Screenshot 2022-07-14 at 16 31 45" src="https://user-images.githubusercontent.com/87713231/179007306-c3a0749c-91c8-4dbb-a679-90a337c23a9f.png">
 
 
 
@@ -49,6 +50,5 @@ Maybe another thing I struggled with was to place the quotes that are on the fir
 I first wanted to position it below the white text with absolute positionning but it moved when I resized the screen. So to fix that I used negative margins on the white text. 
 Since the text is placed in the html after the quotes, it naturally stacks on top of it when negative margins are applied to it. 
 
-<img width="1273" alt="Screenshot 2022-07-14 at 16 31 45" src="https://user-images.githubusercontent.com/87713231/179007306-c3a0749c-91c8-4dbb-a679-90a337c23a9f.png">
 
 
